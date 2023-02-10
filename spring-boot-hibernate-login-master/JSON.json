@@ -1,0 +1,16 @@
+http://localhost:8080/users
+
+{
+ "firstName":"Dinga",
+"lastName":"D",
+ "email":"Dinga@gmail.com",
+"username":"Dinga",
+"password":"123"
+}
+
+http://localhost:8080/login
+
+{
+"username":"Dinga",
+"password":"123"
+}

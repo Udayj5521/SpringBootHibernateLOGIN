@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: udayj
+Build-Jdk: 17.0.5
+Implementation-Title: spring-boot-hibernate-login
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.devglan
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-hibernate-login
+Created-By: Maven Integration for Eclipse
+
